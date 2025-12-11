@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, This is Nesru
 
 <!--
 **Nes-cmd/nes-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi, I'm Gobyo
-
 A full‑stack software engineer, startup founder, and tech content creator driven by curiosity and impact. I build systems that actually solve real‑world problems — from ERP platforms powering businesses to high‑stakes financial integrations used at scale.
 
 ## 🚀 What I Do
