@@ -26,7 +26,7 @@ A full‑stack software engineer, startup founder, and tech content creator driv
 
 – **Telebirr Integration** – from merchant APIs to advanced payment flows, subscription handling, webhook pipelines, and automated settlement.
 
-– **Semayline System Development** – core contributor to the Semayline platform, working across backend, deployment, optimization, and feature expansion.
+– **ERP System Development** – core contributor to the Semayline platform, working across backend, deployment, optimization, and feature expansion.
 
 – **Startup Leadership** – CEO of a tech‑focused startup delivering ERP solutions and custom systems for real businesses.
 
